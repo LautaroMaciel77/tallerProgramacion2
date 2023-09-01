@@ -1,0 +1,12 @@
+E:\taller programacion\tp4_tp5\practico 5\tp5\tp5\bin\Debug\Database2.mdf
+E:\taller programacion\tp4_tp5\practico 5\tp5\tp5\bin\Debug\Database2_log.ldf
+E:\taller programacion\tp4_tp5\practico 5\tp5\tp5\bin\Debug\tp5.exe.config
+E:\taller programacion\tp4_tp5\practico 5\tp5\tp5\bin\Debug\tp5.exe
+E:\taller programacion\tp4_tp5\practico 5\tp5\tp5\bin\Debug\tp5.pdb
+E:\taller programacion\tp4_tp5\practico 5\tp5\tp5\obj\Debug\tp5.csproj.AssemblyReference.cache
+E:\taller programacion\tp4_tp5\practico 5\tp5\tp5\obj\Debug\tp5.Properties.Resources.resources
+E:\taller programacion\tp4_tp5\practico 5\tp5\tp5\obj\Debug\tp5.csproj.GenerateResource.cache
+E:\taller programacion\tp4_tp5\practico 5\tp5\tp5\obj\Debug\tp5.csproj.CoreCompileInputs.cache
+E:\taller programacion\tp4_tp5\practico 5\tp5\tp5\obj\Debug\tp5.exe
+E:\taller programacion\tp4_tp5\practico 5\tp5\tp5\obj\Debug\tp5.pdb
+E:\taller programacion\tp4_tp5\practico 5\tp5\tp5\obj\Debug\tp5.Usuarios.resources

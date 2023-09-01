@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "IOzBY2buyWKvAq2lQHGhH08CB2NeBD9UXVCue0vJucIQikt6Lhx+2OcX0wMX6t4Sf1N8y6gPQ2gzxlztMAoeHg==",
+  "success": true,
+  "projectFilePath": "E:\\taller programacion\\tp4_tp5\\practico 4\\WinFormsApp1\\WinFormsApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lau\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\lau\\.nuget\\packages\\winforms.datavisualization\\1.8.0\\winforms.datavisualization.1.8.0.nupkg.sha512"
+  ],
+  "logs": []
+}
